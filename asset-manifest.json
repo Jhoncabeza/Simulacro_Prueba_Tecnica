@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Simulacro_Prueba_Tecnica/static/js/main.78a9eadd.chunk.js",
+    "main.js.map": "/Simulacro_Prueba_Tecnica/static/js/main.78a9eadd.chunk.js.map",
+    "runtime-main.js": "/Simulacro_Prueba_Tecnica/static/js/runtime-main.eb5923e8.js",
+    "runtime-main.js.map": "/Simulacro_Prueba_Tecnica/static/js/runtime-main.eb5923e8.js.map",
+    "static/js/2.bc4eac92.chunk.js": "/Simulacro_Prueba_Tecnica/static/js/2.bc4eac92.chunk.js",
+    "static/js/2.bc4eac92.chunk.js.map": "/Simulacro_Prueba_Tecnica/static/js/2.bc4eac92.chunk.js.map",
+    "index.html": "/Simulacro_Prueba_Tecnica/index.html",
+    "static/js/2.bc4eac92.chunk.js.LICENSE.txt": "/Simulacro_Prueba_Tecnica/static/js/2.bc4eac92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb5923e8.js",
+    "static/js/2.bc4eac92.chunk.js",
+    "static/js/main.78a9eadd.chunk.js"
+  ]
+}
